@@ -1,0 +1,9 @@
+.idea/*
+/build/*
+/dist/*
+*.egg-info
+*.lock
+__pycache__
+*.spec
+/Pipfile.lock
+app/playlist_config/*.json
