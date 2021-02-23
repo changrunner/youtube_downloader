@@ -3,7 +3,13 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
 
+[[source]]
+name = "test"
+url = "https://test.pypi.org/simple"
+verify_ssl = true
+
 [packages]
+zeppos-application = "*"
 
 [dev-packages]
 
