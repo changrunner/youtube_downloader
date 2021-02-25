@@ -9,7 +9,7 @@ url = "https://test.pypi.org/simple"
 verify_ssl = true
 
 [packages]
-zeppos-application = "*"
+zeppos-api = ">=0.0.2"
 
 [dev-packages]
 

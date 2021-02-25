@@ -1,0 +1,5 @@
+{
+  "APPLICATION_NAME": "youtube_downloader_app",
+  "DEBUG_MODE": "True",
+  "ENVIRONMENT": "local"
+}
