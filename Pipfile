@@ -9,9 +9,12 @@ url = "https://test.pypi.org/simple"
 verify_ssl = true
 
 [packages]
-zeppos-api = ">=0.0.2"
+zeppos-api = ">=0.0.3"
+waitress = ">=1.4.4"
+paste = ">=3.5.0"
 
 [dev-packages]
+pylint = "*"
 
 [requires]
 python_version = "3.8"
